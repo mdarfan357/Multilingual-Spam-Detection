@@ -2,3 +2,4 @@ flask
 joblib
 gunicorn==19.7.1
 sklearn
+scikit-learn
