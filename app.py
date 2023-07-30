@@ -5,8 +5,8 @@ app = Flask(__name__)
 import joblib
 import os
 
-loaded_model = joblib.load(os.getcwd()+"\\spam-detection-app\\stacked_model.joblib")
-loaded_vectorizer = joblib.load(os.getcwd()+"\\spam-detection-app\\tokenizer.joblib") 
+loaded_model = joblib.load(os.getcwd()+"\\stacked_model.joblib")
+loaded_vectorizer = joblib.load(os.getcwd()+"\\tokenizer.joblib") 
 
 # Your niece has been arrested and needs $7,500.
 # Hi, this is Cynde from HR. We have a couple question regarding your application. Please call 4732427394 to schedule a interview
