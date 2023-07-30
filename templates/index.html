@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <style>
+            
+
+            .text {
+            
+            Width: 500px;
+            Margin: 10px;
+            Padding: 5px;
+            
+            }
+            .button{
+                
+            }
+            body {
+                text-align: center;
+               }
+            
+            </style>
+        <title>Spam detection Flask App</title>
+    </head>
+    <body>
+        <div class="content">
+            <h1>Spam detection Flask App</h1>
+        
+        <img src="https://miro.medium.com/v2/resize:fit:720/1*K6TAWB25Ip6KLeVEK6ewvw.png"></img>
+        
+        <form method="post" action="/predict">
+            <input type="text" id="mail" name="mail" placeholder="Please enter mail content" class="text"/>
+            
+            <input type="submit" value="Predict" name="submit_button" class="button"/>
+        </form>
+        
+        <h3>Prediction : {{ prediction }}<h3>
+
+        </div>
+        
+        
+    </body>
+    
+
+     
+</html>
