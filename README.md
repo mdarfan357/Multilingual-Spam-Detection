@@ -3,7 +3,7 @@ Creating a machine learning model that is able to perform spam detection on mult
 
 [Link to the Flask app](https://spam-app-l9au.onrender.com/)
 
-[Link to the Kaggle app](https://www.kaggle.com/code/arfan147/multilingual-spam-detection/)
+[Link to the Kaggle notebook](https://www.kaggle.com/code/arfan147/multilingual-spam-detection/)
 ### WordCloud for ham data
 ![__results___23_0](https://github.com/mdarfan357/Multilingual-Spam-Detection/assets/77487906/eb7d35a1-38d2-4eff-b740-b92d19294159)
 
