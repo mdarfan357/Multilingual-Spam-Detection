@@ -3,7 +3,6 @@ from flask import render_template, request
 app = Flask(__name__)
 
 import joblib
-import pandas as pd
 import os
 
 loaded_model = joblib.load(os.getcwd()+"\\spam-detection-app\\stacked_model.joblib")
