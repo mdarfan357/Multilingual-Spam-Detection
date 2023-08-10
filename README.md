@@ -28,4 +28,4 @@ Creating a machine learning model that is able to perform spam detection on mult
 
 <a href="https://github.com/mdarfan357/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/arfan-md-9714531b4/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/lnkdn.png" width="30"></a>
-<a href="https://www.linkedin.com/in/arfan-md-9714531b4/" target="_blank"><img class="ai-subscribed-social-icon" src="https://aleen42.github.io/badges/src/stackoverflow.svg" width="30"></a>
+<a href="https://www.linkedin.com/in/arfan-md-9714531b4/" target="_blank"><img class="ai-subscribed-social-icon" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
