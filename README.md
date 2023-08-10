@@ -12,8 +12,7 @@
   
 Creating a machine learning model that is able to perform spam detection on multilingual text data. Also providing a user interface using Flask to give custom user inputs.
 
-[Link to the Flask app](https://spam-app-l9au.onrender.com/)
-<a href="https://spam-app-l9au.onrender.com/" target="_blank"> <img alt="Flask" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> </a> 
+<a href="https://spam-app-l9au.onrender.com/" target="_blank"> <img alt="heroku App" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> </a> 
   
 [Link to the Kaggle notebook](https://www.kaggle.com/code/arfan147/multilingual-spam-detection/)
 ### WordCloud for ham data
