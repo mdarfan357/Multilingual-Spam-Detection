@@ -1,5 +1,9 @@
 # Multilingual-Spam-Detection
-
+<style>
+  img {
+  border-radius: 50%;
+}
+</style>
 <p align="left">  
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
   <a href="https://tensorflow.org/" target="_blank"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> </a> 
