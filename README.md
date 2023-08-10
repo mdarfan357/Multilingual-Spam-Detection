@@ -1,10 +1,11 @@
 # Multilingual-Spam-Detection
-<style>
-  img {
-  border-radius: 50%;
-}
-</style>
-<p align="left">  
+
+<p align="left">
+  <style>
+    img {
+    border-radius: 50%;
+  }
+  </style>
   <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
   <a href="https://tensorflow.org/" target="_blank"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> </a> 
   <a href="https://keras.io/" target="_blank"> <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> </a>
