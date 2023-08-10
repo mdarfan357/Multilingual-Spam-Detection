@@ -8,6 +8,7 @@
   <a href="https://sklearn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit Learn-282C34?logo=scikit-learn" alt="ScikitLearn logo" title="Scikit Learn" height="25" /> </a>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /> </a> 
   <a href="https://jupyter.org/" target="_blank"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> </a> 
+  <a href="https://jupyter.org/" target="_blank"> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </a> 
   
 Creating a machine learning model that is able to perform spam detection on multilingual text data. Also providing a user interface using Flask to give custom user inputs.
 
